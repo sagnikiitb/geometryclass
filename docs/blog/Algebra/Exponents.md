@@ -1,2 +1,0 @@
-#Exponents
-[[index]]

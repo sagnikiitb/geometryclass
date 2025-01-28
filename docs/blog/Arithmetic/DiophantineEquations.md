@@ -1,3 +1,0 @@
-#DiophantineEquations
-
-[[index]]

@@ -1,3 +1,0 @@
-#ContinuousFunctions 
-[[index]]
-

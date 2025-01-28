@@ -1,3 +1,0 @@
-#Primes
-
-[[index]]

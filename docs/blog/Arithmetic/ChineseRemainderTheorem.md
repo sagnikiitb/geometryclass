@@ -1,3 +1,0 @@
-#ChineseRemainderTheorem
-
-[[index]]

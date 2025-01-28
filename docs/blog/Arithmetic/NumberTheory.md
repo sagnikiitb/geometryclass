@@ -1,3 +1,0 @@
-#NumberTheory
-[[index]]
-
