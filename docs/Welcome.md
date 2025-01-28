@@ -1,9 +1,10 @@
 This is the ***front page*** of the class website
 
-[[Index]]
-[[Exams]]
-[[Topics For Revision]]
-[[Schedule Log]]
+[[index]]
+[[Class/Exams|Exams]]
+[[Class/Revision|Revision]]
+[[Class/Schedule|Schedule]]
+
 
 Link to Classroom Drive containing all our materials
 
